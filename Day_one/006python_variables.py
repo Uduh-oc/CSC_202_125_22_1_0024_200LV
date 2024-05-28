@@ -1,0 +1,10 @@
+# name = input("Who's your daddy? ")
+# print(name)
+#variable test idea
+print("We're about to ask for your name")
+name = input("what's your name? ")
+print("We're about to ask for your phone number")
+num = input("What is your phone number? ")
+print("your name is" ,name ,"and your number is", num, "thanks for your paitence")
+name = input("would you like to change your name? ")
+print("your new name is" ,name ,"and your number is", num, "thanks for your paitence")
