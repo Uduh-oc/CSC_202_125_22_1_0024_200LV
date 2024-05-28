@@ -1,2 +1,3 @@
-print("Yout favourite anime charater is " +input("Their name is? "))
-print(len(input("Their name is? ")))
+name = input("What is today? ")
+print("Today is", name)
+print("today is a ", len(name) , "letter word")
